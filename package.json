@@ -1,0 +1,29 @@
+{
+  "name": "lotr-bootstrap",
+  "version": "1.0.0",
+  "description": "Een training met Bootstrap met een pagina van LOTR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GijsHuitenga/Bootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "LOTR"
+  ],
+  "author": "Gijs Huitenga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GijsHuitenga/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/GijsHuitenga/Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
